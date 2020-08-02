@@ -6,3 +6,6 @@
  Designed an algorithm based Monte-carlo search such that it can effectivley win the game around 50% of the time and can surpass the 1024 benchmark 100% of the time.
  
  
+run by executing "driver.java"
+ 
+ 
